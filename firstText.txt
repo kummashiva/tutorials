@@ -1,3 +1,1 @@
-am Sam and I like Ham
-a new line
-this is another change
+am the best person to learn GIT
